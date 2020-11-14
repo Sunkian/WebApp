@@ -1,0 +1,39 @@
+@import "penknife";
+
+#header {
+  background-image: url("../../Img/fond3.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #F1F1F1;
+  padding: 10%;
+  margin: 0%;
+  //border-radius: 5px;
+  //-webkit-border-radius: 5px;
+  //-moz-border-radius: 5px;
+  //-ms-border-radius: 5px;
+  //-o-border-radius: 5px;
+
+  h1 {
+    font-family: $typical;
+    font-size: 60px;
+    color: grey;
+    text-align: left;
+  }
+
+  p {
+    font-family: $typical;
+    font-size: 16px;
+    color: #C9C9C9;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.16;
+    letter-spacing: normal;
+    text-align: center;
+    margin-bottom: 5vh;
+    text-align: left;
+  }
+
+}
+

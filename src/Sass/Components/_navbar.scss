@@ -1,0 +1,26 @@
+@import "penknife";
+
+.navbar {
+  background-color: #F0F0F0;
+  font-family: $typical;
+  padding: 3px 80px;
+  position: fixed;
+  width: 100%;
+  z-index: 9999;
+  top: 0;
+
+  &__a {
+    color: #1B2953;
+    //width: auto;
+    //margin: 0 16px;
+    //text-align: center;
+    //order: 3;
+  }
+
+  }
+
+
+
+
+
+
